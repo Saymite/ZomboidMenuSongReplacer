@@ -1,6 +1,6 @@
 # Project Zomboid - Custom Menu Music Mod
 
-![Custom Menu Music Mod](https://i.imgur.com/i0ERTUG.png)
+![Custom Menu Music Mod](https://i.imgur.com/tizPyq0.jpeg)
 
 ## Description
 
